@@ -7,12 +7,9 @@ source projects][rust-case-study], and thousands of other organizations use
 Zulip every day. Zulip is the only [modern team chat app][features] that is
 designed for both live and asynchronous conversations.
 
-Zulip is built by a distributed community of developers from all around the
-world, with 97+ people who have each contributed 100+ commits. With
-over 1,500 contributors merging over 500 commits a month, Zulip is the
-largest and fastest growing open source team chat project.
+Zulip is built by a global community of developers, with over 97 contributors each making 100+ commits. With over 1,500 contributors merging over 500 commits a month, Zulip is the largest and fastest growing open source team chat project.
 
-Come find us on the [development community chat](https://zulip.com/development-community/)!
+Join our [developer community chat](https://zulip.com/development-community/) to get started!
 
 [![GitHub Actions build status](https://github.com/zulip/zulip/actions/workflows/zulip-ci.yml/badge.svg)](https://github.com/zulip/zulip/actions/workflows/zulip-ci.yml?query=branch%3Amain)
 [![coverage status](https://img.shields.io/codecov/c/github/zulip/zulip/main.svg)](https://codecov.io/gh/zulip/zulip)
